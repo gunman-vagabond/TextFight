@@ -1,0 +1,8 @@
+//
+// Created by ryuba on 2017/03/26.
+//
+
+#ifndef SHOOTINGGAME2_GETSTRING_H
+#define SHOOTINGGAME2_GETSTRING_H
+
+#endif //SHOOTINGGAME2_GETSTRING_H
